@@ -1,0 +1,14 @@
+{
+  "name": "memory",
+  "version": "1.0.0",
+  "description": "memory game",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Toka",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^2.0.9"
+  }
+}
